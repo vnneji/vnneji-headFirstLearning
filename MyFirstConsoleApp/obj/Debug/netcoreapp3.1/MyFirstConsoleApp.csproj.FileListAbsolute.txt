@@ -1,0 +1,13 @@
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/netcoreapp3.1/MyFirstConsoleApp.deps.json
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/netcoreapp3.1/MyFirstConsoleApp.runtimeconfig.json
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/netcoreapp3.1/MyFirstConsoleApp.runtimeconfig.dev.json
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/netcoreapp3.1/MyFirstConsoleApp.dll
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/netcoreapp3.1/MyFirstConsoleApp.pdb
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/netcoreapp3.1/MyFirstConsoleApp.csproj.AssemblyReference.cache
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/netcoreapp3.1/MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/netcoreapp3.1/MyFirstConsoleApp.AssemblyInfoInputs.cache
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/netcoreapp3.1/MyFirstConsoleApp.AssemblyInfo.cs
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/netcoreapp3.1/MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/netcoreapp3.1/MyFirstConsoleApp.dll
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/netcoreapp3.1/MyFirstConsoleApp.pdb
+/Users/victornneji/Projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/netcoreapp3.1/MyFirstConsoleApp.genruntimeconfig.cache
